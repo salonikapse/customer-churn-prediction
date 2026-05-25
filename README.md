@@ -1,6 +1,7 @@
 📊 Customer Churn Prediction System
 
 * Overview
+  
 Customer retention is one of the most critical challenges faced by modern businesses. This project presents an end-to-end Machine Learning solution designed to predict customer churn by analyzing customer demographics, service usage patterns, and account-related information.
 The system leverages predictive analytics and classification algorithms to identify customers who are likely to discontinue a service, enabling organizations to take proactive retention measures and improve long-term customer engagement.
 
